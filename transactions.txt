@@ -1,0 +1,11 @@
+allocate 500
+allocate 200
+allocate 300
+compact
+deallocate 500
+allocate 100
+allocate 150
+deallocate 200
+deallocate 300
+allocate 400
+compact
